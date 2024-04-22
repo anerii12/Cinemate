@@ -1,7 +1,7 @@
 # IMDB-clone app
 
-![](images/home_page.png)
-![](images/movie_page.png)
+![](../IMDB-clone/images/everything.png)
+![](../IMDB-clone//images/mean%20girls.png)
 
 
 A mini IMDB clone app in which we can search movies based on OMDB API, with search suggestions. 
